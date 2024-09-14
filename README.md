@@ -29,3 +29,5 @@ The test suite covers:
 2. Handling successful and unsuccessful user operations.
 3. Resource retrieval and creation.
 4. Testing delays and edge cases for invalid inputs.
+
+![Cypress Test Runner](E:\cypress ass 3\result.png)
